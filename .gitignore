@@ -1,0 +1,12 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.DS_Store
+.streamlit/secrets.toml
+.env
+app_backup.py
+app_before_upgrade.py
+test_messages.csv
